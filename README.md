@@ -1,4 +1,11 @@
-### Hi there 👋
+- 👤 Lucas Emanuel Silva Melo
+- 📆 17 anos
+- 🏫 Graduando em Ciência da Computação na UFCG
+- 💻 Programador Competitivo
+- ♟️ Titular da Equipe Xadrez UFCG
+- 🔧 Competente em C/C++ e Python
+- 🇬🇧 Fluente em Inglês
+
 
 <div align="center">
   <a href="https://github.com/LeLucasGH">
